@@ -1,4 +1,4 @@
-FROM nordlevel/alpine-base:latest
+FROM nordlevel/base:alpine
 
 MAINTAINER Marc Dibold <dibold@nordlevel.com>
 
